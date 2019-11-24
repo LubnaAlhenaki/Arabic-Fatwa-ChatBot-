@@ -21,7 +21,7 @@ The next focus was to clean the data to build a better chatbot. I started by imp
 I used buildin library 
 
 ## 4. Resource Description
-For more details please viste [Project Resource](https://github.com/LubnaAlhenaki/sa19_ds1/tree/master/student_work/project2/Lubna_Alhenaki). This repo contains the following:
+For more details please viste [Project Resource](https://github.com/LubnaAlhenaki/Arabic-Fatwa-ChatBot-). This repo contains the following:
 * scraping and cleaning code file.
 * building chatbot code file.
 * Project-05 pdf file that describe the project in details.
